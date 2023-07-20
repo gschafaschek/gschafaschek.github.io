@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Germano Schafaschek"
   avatar           : "profile.png"
-  bio              : " "
+  bio              : "Postdoctoral researcher at MPI-SWS"
   location         : "Kaiserslautern, Germany"
-  employer         : "Max Planck Institute for Software Systems"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "gschafaschek@mpi-sws.org"

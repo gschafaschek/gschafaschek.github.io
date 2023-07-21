@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+ 
 I am a postdoctoral researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org), in the [Control Software Systems Group](https://cossy.mpi-sws.org) led by [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/).
 
 Previously, I was a teaching and research assistant and a PhD candidate in the [Control Systems Group](https://www.tu.berlin/control/) of TU Berlin, advised by [Jörg Raisch](https://www.tu.berlin/control/user-jraisch) (group head) and [Laurent Hardouin](http://perso-laris.univ-angers.fr/~hardouin/) (University of Angers).

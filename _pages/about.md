@@ -9,9 +9,11 @@ redirect_from:
 ---
 
  
-I am a postdoctoral researcher at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org), in the [Control Software Systems Group](https://cossy.mpi-sws.org) led by [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/).
+I am a teaching and research assistant at the [Chair of Automatic Control](https://www.ac.tf.fau.eu) of the Friedrich-Alexander-Universität Erlangen-Nürnberg.
 
-Previously, I was a teaching and research assistant and a PhD candidate in the [Control Systems Group](https://www.tu.berlin/control/) of TU Berlin, advised by [Jörg Raisch](https://www.tu.berlin/control/user-jraisch) (group head) and [Laurent Hardouin](http://perso-laris.univ-angers.fr/~hardouin/) (University of Angers).
+Previously, I worked as a research assistant at the Max Planck Institute for Software Systems, in the Control Software Systems Group led by Anne-Kathrin Schmuck.
+
+I was a teaching and research assistant in the Control Systems Group of TU Berlin, where I received a PhD degree (Dr.-Ing.) advised by Prof. Jörg Raisch (group head) and Prof. Laurent Hardouin (University of Angers).
 
 I studied Control and Automation Engineering at the Federal University of Santa Catarina in Florianópolis, Brazil. I received a master's degree in Automation Systems Engineering from the same university.
 

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Germano Schafaschek"
   avatar           : "IMG_1882.JPG"
-  bio              : "Postdoctoral researcher at MPI-SWS"
-  location         : "Kaiserslautern, Germany"
+  bio              : "Postdoctoral researcher at FAU Erlangen-Nürnberg"
+  location         : "Erlangen, Germany"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "gschafaschek@mpi-sws.org"
+  email            : "germano.schafaschek@fau.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
